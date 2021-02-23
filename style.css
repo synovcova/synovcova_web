@@ -1,0 +1,221 @@
+body{
+    color: #414142;
+    background-color:  #e8e2e2;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+<!-- menu-->
+
+.menu {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:  #e8e2e2;
+}
+
+.menu li{
+    display: inline-block;
+}
+
+.menu a{
+    display: inline-block;
+    color: #1f6466;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: #61d1d2;
+}
+<!-- menu-->
+
+
+
+
+h1,
+h2,
+h3
+a {
+    color:  #61d1d2;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Raleway', serif;
+    line-height: 0;
+}
+
+h1{
+    font-size: 40px;
+   
+    color:#45474c;
+    margin-right: 10px;
+
+}
+
+h2{
+    font-size: 80px;
+    text-align: center;
+    margin-top:0px;
+}
+
+h3{ 
+    font-size: 24px;
+    margin-top: 36px;
+}
+
+h4{
+    font-size: 30px;
+    line-height: 0;
+    padding-bottom: 100px;
+}
+
+h5{
+    font-size: 80px;
+    line-height: 0;
+    margin-top: 50px;
+}
+
+a{
+    font-style:italic;
+    text-decoration:none;
+}
+
+.omne{
+    padding-top: 60px;
+    background-color: #d2c62b;
+}
+.omne h2{
+    color: #45474c;
+}
+}
+
+.hlavicka{
+    background-color: #e8e2e2;
+}
+
+.hlavicka img{
+    width: 10%;
+    border-radius: 50%;
+    float: left;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
+
+
+.hlavicka .foto-omne{
+    width: 450px;
+    margin:0 300px 0 30px
+}
+
+
+.portfolio img{
+    width: 30%;
+    border: 2px solid #45474c;  
+    border-radius: 10px;
+
+}
+
+.blog{
+    background-color: #d2c62b;
+}
+
+.blog h2{
+    color:#45474c;
+}
+
+.blog img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    border: 2px solid #45474c;  
+    border-radius: 10px;
+
+
+}
+
+.blog_clanek{
+    background: #fff;
+    padding:30px 20px 30px 20px;
+    margin: 0 400px 0 0px;
+    border: 2px solid #45474c;  
+    border-radius: 10px;
+}
+ 
+.portfolio,
+.kontakt{
+    background-color:  #eae5e5;
+    text
+}
+
+
+
+section{
+    padding: 50px 15%;
+    overflow: auto;
+}
+
+.omne{
+    margin-top: 20px;
+}
+
+.foto-kontakt{
+    width: 400px;
+    float: left;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.paticka{
+    background-color: #45474c;
+    color:#fff;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.kruh {
+    border-radius: 50%;
+    
+    background: #f00;
+    }
+
+circle{
+    background: rosybrown;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+    margin-right:5px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+}
+
+.circle_01{
+    background: #e23a59;
+    font-weight:bold;
+}
+
+.circle_02{
+    background: #61d1d2;
+}
+
+.circle_03{
+    background: #d2c62b;
+}
+
+i{
+    font-size: 100px;
+    padding-top: 50px;
+}
+
