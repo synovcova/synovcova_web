@@ -7,7 +7,6 @@ body{
     margin: 0;
 }
 
-<!-- menu-->
 
 .menu {
     margin: 0;
@@ -94,17 +93,15 @@ a{
 .omne h2{
     color: #45474c;
 }
-}
+
 
 .hlavicka{
     background-color: #e8e2e2;
 }
 
 .hlavicka img{
-    width: 10%;
     border-radius: 50%;
     float: left;
-    margin-bottom: 0;
     padding-bottom: 0;
 
 }
@@ -149,10 +146,8 @@ a{
     border-radius: 10px;
 }
  
-.portfolio,
-.kontakt{
+.portfolio .kontakt{
     background-color:  #eae5e5;
-    text
 }
 
 
